@@ -14,7 +14,7 @@ function App() {
       
    <Router>
     <Switch>
-      
+    <Route path="/home"><MainComponent/></Route>
       <Route path="/login"><Login/></Route>
       <Route path="/sign"><SignUp/></Route>
     </Switch>
