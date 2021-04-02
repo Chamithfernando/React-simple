@@ -1,0 +1,36 @@
+.login-parent {
+  background-color: rgb(117, 152, 218);
+  margin-top: 5vh;
+  height: 50vh;
+  width: 70vh;
+  margin-left: auto;
+  margin-right: 10vh;
+  display: flex;
+}
+
+.login-name {
+  background-color: rgb(140, 233, 213);
+  height: 50vh;
+  width: 30vh;
+  display: flex;
+  text-align: center;
+  border: 3px solid #45a29e;
+}
+
+.login-form {
+  background-color: rgb(177, 235, 225);
+  height: 50vh;
+  width: 60vh;
+  border: 3px solid #45a29e;
+  padding: 2vh;
+}
+
+.title-login {
+  margin: auto;
+}
+
+.submitBtn {
+  color: rgb(177, 235, 225);
+  background-color: rgb(5, 102, 102);
+  width: 100%;
+}
